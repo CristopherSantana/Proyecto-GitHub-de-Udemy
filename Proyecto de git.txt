@@ -14,3 +14,4 @@ Cuarto tema: procesos para llegar al anime.
 Novela web, seguida de novela ligera, despues manga y finaliza con anime.
 Quinto tema: cartas
 Se componen de picas, diamantes, treboles y corazones.
+Primera prueba de testeo y conflicto en los merge.
