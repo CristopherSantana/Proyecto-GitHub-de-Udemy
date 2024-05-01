@@ -2,3 +2,6 @@ Numero uno: este va a ser el primer proyecto de git del
 curso de Udemy.
 Introduccion: en este mini proyecto se hablara sobre
 diferentes temas al azar.
+Primer tema: La URSS
+La URSS fue la union de republicas socialistas sovieticas
+de la cual formaba parte Ucrania y Rusia.
