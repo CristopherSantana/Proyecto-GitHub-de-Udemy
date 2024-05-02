@@ -2,18 +2,19 @@ Numero uno: este va a ser el primer proyecto de git del
 curso de Udemy.
 INTRODUCCION: en este mini proyecto se hablara sobre
 diferentes temas al azar.
-Primer tema: La URSS
+PRIMER tema: La URSS
 La URSS fue la union de republicas socialistas sovieticas
 de la cual formaba parte Ucrania y Rusia.
-Segundo tema: guerra de los pasteles.
+SEGUNDO tema: guerra de los pasteles.
 Conflicto causado por mexicanos en una pasteleria francesa.
-Tercer tema: ramas de las matematicas
+TERCER tema: ramas de las matematicas
 Aritmetica, algebra, geometria y trigonometria, geometria analitica, calculo diferencial, integral y vectorial. Tambien
 incluyen matrices y demostraciones.
-Cuarto tema: procesos para llegar al anime.
+CUARTO tema: procesos para llegar al anime.
 Novela web, seguida de novela ligera, despues manga y finaliza con anime.
-Quinto tema: mazos de las cartas
+QUINTO tema: mazos de las cartas
 Se componen de picas, diamantes, treboles y corazones.
 Primera prueba de testeo y conflicto en los merge.
 Primera prueba sobre cambios en GitHub y llevandolos a git bash.
 Pruebas con links ssh.
+Intento de git pull con SSH.
