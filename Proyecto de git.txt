@@ -1,6 +1,6 @@
 Numero uno: este va a ser el primer proyecto de git del
 curso de Udemy.
-Introduccion: en este mini proyecto se hablara sobre
+INTRODUCCION: en este mini proyecto se hablara sobre
 diferentes temas al azar.
 Primer tema: La URSS
 La URSS fue la union de republicas socialistas sovieticas
@@ -16,3 +16,4 @@ Quinto tema: mazos de las cartas
 Se componen de picas, diamantes, treboles y corazones.
 Primera prueba de testeo y conflicto en los merge.
 Primera prueba sobre cambios en GitHub y llevandolos a git bash.
+Pruebas con links ssh.
